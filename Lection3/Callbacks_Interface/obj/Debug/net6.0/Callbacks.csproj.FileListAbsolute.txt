@@ -1,0 +1,15 @@
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\bin\Debug\net6.0\Callbacks.exe
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\bin\Debug\net6.0\Callbacks.deps.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\bin\Debug\net6.0\Callbacks.runtimeconfig.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\bin\Debug\net6.0\Callbacks.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\bin\Debug\net6.0\Callbacks.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.AssemblyInfo.cs
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\refint\Callbacks.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\Callbacks.genruntimeconfig.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\Callbacks\obj\Debug\net6.0\ref\Callbacks.dll

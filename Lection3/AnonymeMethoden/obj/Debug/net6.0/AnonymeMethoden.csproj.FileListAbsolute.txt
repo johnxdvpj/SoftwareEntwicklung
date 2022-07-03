@@ -1,0 +1,15 @@
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\bin\Debug\net6.0\AnonymeMethoden.exe
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\bin\Debug\net6.0\AnonymeMethoden.deps.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\bin\Debug\net6.0\AnonymeMethoden.runtimeconfig.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\bin\Debug\net6.0\AnonymeMethoden.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\bin\Debug\net6.0\AnonymeMethoden.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.AssemblyInfo.cs
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\refint\AnonymeMethoden.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\AnonymeMethoden.genruntimeconfig.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection3\AnonymeMethoden\obj\Debug\net6.0\ref\AnonymeMethoden.dll

@@ -1,0 +1,15 @@
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\bin\Debug\net6.0\PatternMatching.exe
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\bin\Debug\net6.0\PatternMatching.deps.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\bin\Debug\net6.0\PatternMatching.runtimeconfig.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\bin\Debug\net6.0\PatternMatching.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\bin\Debug\net6.0\PatternMatching.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfo.cs
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\refint\PatternMatching.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\PatternMatching.genruntimeconfig.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\PatternMatching\obj\Debug\net6.0\ref\PatternMatching.dll

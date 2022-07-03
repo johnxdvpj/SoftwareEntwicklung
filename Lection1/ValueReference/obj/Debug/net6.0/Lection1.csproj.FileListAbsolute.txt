@@ -1,0 +1,15 @@
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\bin\Debug\net6.0\Lection1.exe
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\bin\Debug\net6.0\Lection1.deps.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\bin\Debug\net6.0\Lection1.runtimeconfig.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\bin\Debug\net6.0\Lection1.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\bin\Debug\net6.0\Lection1.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.AssemblyInfo.cs
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\refint\Lection1.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\Lection1.genruntimeconfig.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection1\obj\Debug\net6.0\ref\Lection1.dll

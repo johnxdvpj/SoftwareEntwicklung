@@ -1,0 +1,15 @@
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.csproj.AssemblyReference.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.AssemblyInfo.cs
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\bin\Debug\net6.0\VererbungPolymorphie.exe
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\bin\Debug\net6.0\VererbungPolymorphie.deps.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\bin\Debug\net6.0\VererbungPolymorphie.runtimeconfig.json
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\bin\Debug\net6.0\VererbungPolymorphie.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\bin\Debug\net6.0\VererbungPolymorphie.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\refint\VererbungPolymorphie.dll
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.pdb
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\VererbungPolymorphie.genruntimeconfig.cache
+C:\Users\Johnny\Documents\SoftwareEntwicklung\Lection2\VererbungPolymorphie\obj\Debug\net6.0\ref\VererbungPolymorphie.dll
